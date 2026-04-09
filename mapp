@@ -22,5 +22,11 @@
     "name": "SKRACANIE PAKO",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skracanie_pako",
     "private": true
+  },
+  {
+    "key": "daty_rzeczywiste",
+    "name": "Zaciąganie rzeczywistych diet i dat",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/daty_rzeczywiste",
+    "private": true
   }
 ]
