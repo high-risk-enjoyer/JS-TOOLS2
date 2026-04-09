@@ -1,13 +1,13 @@
 [
   {
     "key": "dyzur_kuchnia",
-    "name": "Dyżur Kuchnia",
+    "name": "Liczenie prognozy - Kuchnia",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_kuchnia_przewidy",
     "private": true
   },
   {
     "key": "dyzur_domowienia",
-    "name": "Dyżur Domówienia",
+    "name": "Liczenie prognozy - domowienia",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy",
     "private": true
   },
