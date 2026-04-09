@@ -1,0 +1,26 @@
+[
+  {
+    "key": "dyzur_kuchnia",
+    "name": "Dyżur Kuchnia",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_kuchnia_przewidy",
+    "private": true
+  },
+  {
+    "key": "dyzur_domowienia",
+    "name": "Dyżur Domówienia",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy",
+    "private": true
+  },
+  {
+    "key": "asystent",
+    "name": "Asystent",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asystent",
+    "private": true
+  },
+  {
+    "key": "skracanie_pako",
+    "name": "SKRACANIE PAKO",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skracanie_pako",
+    "private": true
+  }
+]
