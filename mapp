@@ -28,5 +28,11 @@
     "name": "Zaciąganie rzeczywistych diet i dat",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/daty_rzeczywiste",
     "private": true
+  },
+  {
+    "key": "asia",
+    "name": "Zaciąganie poprawnie asi i włoskiej",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
+    "private": true
   }
 ]
