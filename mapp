@@ -34,5 +34,11 @@
     "name": "Zaciąganie poprawnie asi i włoskiej",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
     "private": true
+  },
+  {
+    "key": "history_fromapp",
+    "name": "historia brokułapp do schowka",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
+    "private": true
   }
 ]
