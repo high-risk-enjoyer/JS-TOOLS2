@@ -7,8 +7,14 @@
   },
   {
     "key": "dyzur_domowienia",
-    "name": "Liczenie prognozy - domowienia",
+    "name": "Prognozy - domowienia",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy",
+    "private": true
+  },
+  {
+    "key": "dyzur_domowienia_przewidy2",
+    "name": "Prognozy - domowienia, gdy nie ma liczb",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy2",
     "private": true
   },
   {
@@ -39,12 +45,6 @@
     "key": "history_fromapp",
     "name": "historia brokułapp do schowka",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
-    "private": true
-  },
-  {
-    "key": "dyzur_domowienia_przewidy2",
-    "name": "Dyżur domówienia - przewidy gdy nie ma liczb",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy2",
     "private": true
   }
 ]
