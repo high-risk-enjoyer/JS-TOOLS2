@@ -40,5 +40,13 @@
     "name": "historia brokułapp do schowka",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
     "private": true
+  },
+  {
+    "key": "dyzur_domowienia_przewidy2",
+    "name": "Dyżur domówienia - przewidy gdy nie ma liczb",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy2",
+    "private": true
   }
 ]
+
+
