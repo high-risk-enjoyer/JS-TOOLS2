@@ -24,6 +24,12 @@
     "private": true
   },
   {
+    "key": "danie",
+    "name": "PRZYCISK WYBIERANIA DANIA",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/danie",
+    "private": true
+  },
+  {
     "key": "skracanie_pako",
     "name": "SKRACANIE PAKO",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skracanie_pako",
@@ -48,5 +54,3 @@
     "private": true
   }
 ]
-
-
