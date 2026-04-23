@@ -18,6 +18,12 @@
     "private": true
   },
   {
+    "key": "autoklik",
+    "name": "Autoklik",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/autoklik",
+    "private": true
+  },
+  {
     "key": "asystent",
     "name": "Asystent",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asystent",
@@ -54,3 +60,5 @@
     "private": true
   }
 ]
+
+
