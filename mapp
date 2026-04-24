@@ -24,6 +24,12 @@
     "private": true
   },
   {
+    "key": "pozycje",
+    "name": "Zmiana pozycycji na wszystkie",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/pozycje",
+    "private": true
+  },
+  {
     "key": "asystent",
     "name": "Asystent",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asystent",
