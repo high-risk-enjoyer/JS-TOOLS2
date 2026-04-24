@@ -42,21 +42,15 @@
     "private": true
   },
   {
-    "key": "daty_rzeczywiste",
-    "name": "Zaciąganie rzeczywistych diet i dat",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/daty_rzeczywiste",
-    "private": true
-  },
-  {
     "key": "asia",
-    "name": "Zaciąganie poprawnie asi i włoskiej",
+    "name": "ASIA",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
     "private": true
   },
   {
-    "key": "history_fromapp",
-    "name": "historia brokułapp do schowka",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
+    "key": "asia2",
+    "name": "ASIA Z PRZYCISKIEM PROGNOZ",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia2",
     "private": true
   }
 ]
