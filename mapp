@@ -30,6 +30,12 @@
     "private": true
   },
   {
+    "key": "eksport_rz",
+    "name": "EKSPORT RZECZYWISTYCH DIET",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/eksport_rz",
+    "private": true
+  },
+  {
     "key": "asystent",
     "name": "Asystent",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asystent",
