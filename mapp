@@ -65,6 +65,13 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia2",
     "private": true
   }
+  {
+    "key": "checker",
+    "name": "CHECKER REKORDÓW W SPECJAŁACH",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checker",
+    "private": true
+  },
+
 ]
 
 
