@@ -73,7 +73,7 @@
   },
   {
     "key": "checkker2",
-    "name": "CHECKER REKORDÓW W SPECJAŁACH",
+    "name": "EKSPORT SPECJAŁÓW DO XSLX",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checkker2",
     "private": true
   }
