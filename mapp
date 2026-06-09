@@ -72,6 +72,12 @@
     "private": true
   },
   {
+    "key": "anuluj",
+    "name": "Anuluj formularz esc",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
+    "private": true
+  },
+  {
     "key": "checkker2",
     "name": "EKSPORT SPECJAŁÓW DO XSLX",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checkker2",
