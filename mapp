@@ -72,6 +72,12 @@
     "private": true
   },
   {
+    "key": "bot",
+    "name": "BOT NA PRZEWIDY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bot",
+    "private": true
+  },
+  {
     "key": "anuluj",
     "name": "Anuluj formularz esc",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
