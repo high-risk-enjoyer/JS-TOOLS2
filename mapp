@@ -78,6 +78,12 @@
     "private": true
   },
   {
+    "key": "dane_do_tb",
+    "name": "SKOPIUJ DANE DO TABELKI",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dane_do_tb",
+    "private": true
+  },
+  {
     "key": "anuluj",
     "name": "Anuluj formularz esc",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
