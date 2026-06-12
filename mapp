@@ -84,6 +84,12 @@
     "private": true
   },
   {
+    "key": "bs",
+    "name": "SKOPIUJ DANE GRAMATUR NA NADPRODUKCJE",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bs",
+    "private": true
+  },
+  {
     "key": "anuluj",
     "name": "Anuluj formularz esc",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
