@@ -54,15 +54,9 @@
     "private": true
   },
   {
-    "key": "asia",
-    "name": "ASIA",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia",
-    "private": true
-  },
-  {
-    "key": "asia2",
-    "name": "ASIA Z PRZYCISKIEM PROGNOZ",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asia2",
+    "key": "kalkulator",
+    "name": "KOPIUJ LICZBY DO ASIA/WŁOSKA KALKULATOR",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kalkulator",
     "private": true
   },
   {
