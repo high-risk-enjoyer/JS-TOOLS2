@@ -1,4 +1,5 @@
 [
+  { "type": "separator", "name": "-------------DO KLIKANIA PRZEWIDYWAŃ-------------" },
   {
     "key": "dyzur_kuchnia",
     "name": "Liczenie prognozy - Kuchnia",
@@ -11,7 +12,6 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy",
     "private": true
   },
-  { "type": "separator", "name": "moduły A" },
   {
     "key": "dyzur_domowienia_przewidy2",
     "name": "Prognozy - domowienia, gdy nie ma liczb",
@@ -25,17 +25,12 @@
     "private": true
   },
   {
-    "key": "pozycje",
-    "name": "Zmiana pozycycji na wszystkie",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/pozycje",
+    "key": "bot",
+    "name": "BOT NA PRZEWIDY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bot",
     "private": true
   },
-  {
-    "key": "eksport_rz",
-    "name": "EKSPORT RZECZYWISTYCH DIET",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/eksport_rz",
-    "private": true
-  },
+  { "type": "separator", "name": "-------------PRZEDPREMIERA-------------" },
   {
     "key": "asystent",
     "name": "Asystent",
@@ -48,6 +43,13 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/danie",
     "private": true
   },
+  {
+    "key": "anuluj",
+    "name": "Anuluj formularz esc",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
+    "private": true
+  },
+  { "type": "separator", "name": "-------------TABELKI-------------" },
   {
     "key": "skracanie_pako",
     "name": "SKRACANIE PAKO",
@@ -73,41 +75,17 @@
     "private": true
   },
   {
-    "key": "checker",
-    "name": "CHECKER REKORDÓW W SPECJAŁACH",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checker",
-    "private": true
-  },
-  {
-    "key": "bot",
-    "name": "BOT NA PRZEWIDY",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bot",
-    "private": true
-  },
-  {
-    "key": "danedotb",
-    "name": "SKOPIUJ DANE DO TABELKI",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/danedotb",
-    "private": true
-  },
-  {
     "key": "bs",
     "name": "SKOPIUJ DANE GRAMATUR NA NADPRODUKCJE",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bs",
     "private": true
   },
   {
-    "key": "anuluj",
-    "name": "Anuluj formularz esc",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
+    "key": "checker",
+    "name": "CHECKER REKORDÓW W SPECJAŁACH",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checker",
     "private": true
   },
-  {
-    "key": "checkker2",
-    "name": "EKSPORT SPECJAŁÓW DO XSLX",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checkker2",
-    "private": true
-  }
 ]
 
 
