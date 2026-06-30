@@ -60,6 +60,12 @@
     "private": true
   },
   {
+    "key": "helper_gramatur",
+    "name": "JEDNOSTKI W GRAMATURACH",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/helper_gramatur",
+    "private": true
+  },
+  {
     "key": "kalkulator",
     "name": "KOPIUJ LICZBY DO ASIA/WŁOSKA KALKULATOR",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kalkulator",
