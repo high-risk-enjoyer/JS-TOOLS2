@@ -11,6 +11,7 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy",
     "private": true
   },
+  { "type": "separator", "name": "moduły A" },
   {
     "key": "dyzur_domowienia_przewidy2",
     "name": "Prognozy - domowienia, gdy nie ma liczb",
