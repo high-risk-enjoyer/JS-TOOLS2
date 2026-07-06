@@ -30,6 +30,18 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bot",
     "private": true
   },
+  {
+    "key": "kopiuj_tabelke",
+    "name": "KOPIUJ TABELKE SPECJAŁÓW Z APLIKACJI",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kopiuj_tabelke",
+    "private": true
+  },
+  {
+    "key": "prognozy_specjały_v6",
+    "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
+    "private": true
+  },
   { "type": "separator", "name": "-------------PRZEDPREMIERA-------------" },
   {
     "key": "asystent",
