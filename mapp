@@ -50,6 +50,12 @@
     "private": true
   },
   {
+    "key": "specjały_check",
+    "name": "WYCIĄGNIJ DANE ZE SPECJAŁÓW DO CSV",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/specjały_check",
+    "private": true
+  },
+  {
     "key": "danie",
     "name": "PRZYCISK WYBIERANIA DANIA",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/danie",
