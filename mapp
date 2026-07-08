@@ -4,6 +4,7 @@
     "key": "dyzur_kuchnia",
     "name": "Liczenie prognozy - Kuchnia",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_kuchnia_przewidy",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/dyzur_kuchnia.md",
     "private": true
   },
   {
