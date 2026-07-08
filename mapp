@@ -11,36 +11,35 @@
     "key": "dyzur_domowienia",
     "name": "Prognozy - domowienia",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/dyzur_domowienia_przewidy.md",
     "private": true
   },
   {
     "key": "dyzur_domowienia_przewidy2",
     "name": "Prognozy - domowienia, gdy nie ma liczb",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy2",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/dyzur_domowienia_przewidy2.md",
     "private": true
   },
   {
     "key": "autoklik",
     "name": "Autoklik",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/autoklik",
-    "private": true
-  },
-  {
-    "key": "bot",
-    "name": "BOT NA PRZEWIDY",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bot",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/autoklik.md",
     "private": true
   },
   {
     "key": "kopiuj_tabelke",
     "name": "KOPIUJ TABELKE SPECJAŁÓW Z APLIKACJI",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kopiuj_tabelke",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/kopiuj_tabelke.md",
     "private": true
   },
   {
     "key": "prognozy_specjały_v6",
     "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
     "private": true
   },
   { "type": "separator", "name": "-------------PRZEDPREMIERA-------------" },
@@ -48,24 +47,28 @@
     "key": "asystent",
     "name": "Asystent",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asystent",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/asystent.md",
     "private": true
   },
   {
     "key": "specjały_check",
     "name": "WYCIĄGNIJ DANE ZE SPECJAŁÓW DO CSV",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/specjały_check",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/specjały_check.md",
     "private": true
   },
   {
     "key": "danie",
     "name": "PRZYCISK WYBIERANIA DANIA",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/danie",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/danie.md",
     "private": true
   },
   {
     "key": "anuluj",
     "name": "Anuluj formularz esc",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/anuluj.md",
     "private": true
   },
   { "type": "separator", "name": "-------------TABELKI-------------" },
@@ -73,36 +76,42 @@
     "key": "skracanie_pako",
     "name": "SKRACANIE PAKO",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skracanie_pako",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/skracanie_pako.md",
     "private": true
   },
   {
     "key": "eksport",
     "name": "EKSPORTUJ TABELKĘ",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/eksport",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/eksport.md",
     "private": true
   },
   {
     "key": "helper_gramatur",
     "name": "JEDNOSTKI W GRAMATURACH",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/helper_gramatur",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/helper_gramatur.md",
     "private": true
   },
   {
     "key": "kalkulator",
     "name": "KOPIUJ LICZBY DO ASIA/WŁOSKA KALKULATOR",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kalkulator",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/kalkulator.md",
     "private": true
   },
   {
     "key": "bs",
     "name": "SKOPIUJ DANE GRAMATUR NA NADPRODUKCJE",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bs",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/bs.md",
     "private": true
   },
   {
     "key": "checker",
     "name": "CHECKER REKORDÓW W SPECJAŁACH",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checker",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/checker.md",
     "private": true
   }
 ]
