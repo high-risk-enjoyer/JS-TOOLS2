@@ -106,13 +106,6 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bs",
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/bs.md",
     "private": true
-  },
-  {
-    "key": "checker",
-    "name": "CHECKER REKORDÓW W SPECJAŁACH",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/checker",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/checker.md",
-    "private": true
   }
 ]
 
