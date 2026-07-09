@@ -42,6 +42,13 @@
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
     "private": true
   },
+  {
+    "key": "skaner_batonow",
+    "name": "SKANER BATONÓW Z CAŁEGO TYGODNIA",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skaner_batonow",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/skaner_batonow.md",
+    "private": true
+  },
   { "type": "separator", "name": "-------------PRZEDPREMIERA-------------" },
   {
     "key": "asystent",
