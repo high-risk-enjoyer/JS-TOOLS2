@@ -87,6 +87,13 @@
     "private": true
   },
   {
+    "key": "druk",
+    "name": "DRUK POPRAWIONY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/druk",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/druk.md",
+    "private": true
+  },
+  {
     "key": "eksport",
     "name": "EKSPORTUJ TABELKĘ",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/eksport",
