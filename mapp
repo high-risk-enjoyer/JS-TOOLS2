@@ -120,6 +120,13 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bs",
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/bs.md",
     "private": true
+  },
+  {
+    "key": "bs2",
+    "name": "APLIKACJA BS GRAMATURY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bs2",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/bs2.md",
+    "private": true
   }
 ]
 
