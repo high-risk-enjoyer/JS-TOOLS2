@@ -80,9 +80,9 @@
   },
   { "type": "separator", "name": "-------------TABELKI-------------" },
   {
-    "key": "skracanie_pako",
+    "key": "skracanie_pako2",
     "name": "SKRACANIE PAKO",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skracanie_pako",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skracanie_pako2",
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/skracanie_pako.md",
     "private": true
   },
