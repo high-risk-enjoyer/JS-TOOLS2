@@ -49,6 +49,13 @@
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/skaner_batonow.md",
     "private": true
   },
+  {
+    "key": "zbierz_dane",
+    "name": "dane",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/zbierz_dane",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/zbierz_dane.md",
+    "private": true
+  },
   { "type": "separator", "name": "-------------PRZEDPREMIERA-------------" },
   {
     "key": "asystent",
