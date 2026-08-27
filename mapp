@@ -56,28 +56,6 @@
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/zbierz_dane.md",
     "private": true
   },
-  { "type": "separator", "name": "-------------PRZEDPREMIERA-------------" },
-  {
-    "key": "asystent",
-    "name": "Asystent",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/asystent",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/asystent.md",
-    "private": true
-  },
-  {
-    "key": "specjały_check",
-    "name": "WYCIĄGNIJ DANE ZE SPECJAŁÓW DO CSV",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/specjały_check",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/specjały_check.md",
-    "private": true
-  },
-  {
-    "key": "danie",
-    "name": "PRZYCISK WYBIERANIA DANIA",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/danie",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/danie.md",
-    "private": true
-  },
   {
     "key": "anuluj",
     "name": "Anuluj formularz esc",
