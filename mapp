@@ -22,13 +22,6 @@
     "private": true
   },
   {
-    "key": "autoklik",
-    "name": "Autoklik",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/autoklik",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/autoklik.md",
-    "private": true
-  },
-  {
     "key": "kopiuj_tabelke",
     "name": "KOPIUJ TABELKE SPECJAŁÓW Z APLIKACJI",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kopiuj_tabelke",
@@ -40,13 +33,6 @@
     "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
-    "private": true
-  },
-  {
-    "key": "skaner_batonow",
-    "name": "SKANER BATONÓW Z CAŁEGO TYGODNIA",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/skaner_batonow",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/skaner_batonow.md",
     "private": true
   },
   {
@@ -90,20 +76,6 @@
     "name": "JEDNOSTKI W GRAMATURACH",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/helper_gramatur",
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/helper_gramatur.md",
-    "private": true
-  },
-  {
-    "key": "kalkulator",
-    "name": "KOPIUJ LICZBY DO ASIA/WŁOSKA KALKULATOR",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kalkulator",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/kalkulator.md",
-    "private": true
-  },
-  {
-    "key": "bs",
-    "name": "SKOPIUJ DANE GRAMATUR NA NADPRODUKCJE",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/bs",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/bs.md",
     "private": true
   },
   {
