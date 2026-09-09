@@ -65,6 +65,13 @@
     "private": true
   },
   {
+    "key": "druk2",
+    "name": "DRUK POPRAWIONY 2",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/druk2",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/druk2.md",
+    "private": true
+  },
+  {
     "key": "eksport",
     "name": "EKSPORTUJ TABELKĘ",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/eksport",
