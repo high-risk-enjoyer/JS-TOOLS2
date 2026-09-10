@@ -16,17 +16,24 @@
   },
   { "type": "separator", "name": "-------------KUCHARZ-------------" },
  {
-    "key": "prognozy_specjały_v6",
-    "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
+    "key": "baton",
+    "name": "BATON",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/baton",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/baton.md",
     "private": true
   },
  {
-    "key": "prognozy_specjały_v6",
-    "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
+    "key": "auto_ilosc",
+    "name": "KOPIOWANIE ILOŚCI PRODUKCYJNEJ",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/auto_ilosc",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/auto_ilosc.md",
+    "private": true
+  },
+ {
+    "key": "grupowanie",
+    "name": "GRUPOWANIE SAŁATEK, DESERÓW I CRUNCHY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/grupowanie",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/grupowanie.md",
     "private": true
   },
   { "type": "separator", "name": "-------------TABELKI-------------" },
