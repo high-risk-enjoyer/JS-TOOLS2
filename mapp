@@ -16,7 +16,7 @@
   },
   {
     "key": "prognoza_lokalna",
-    "name": "PROGNOZA SPECJAŁÓW LOKALNIE",
+    "name": "PROGNOZA SPECJAŁÓW",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/brokul-prognoza-lokalna",
     "private": true
   },
