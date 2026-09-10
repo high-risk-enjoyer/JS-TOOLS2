@@ -14,6 +14,21 @@
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
     "private": true
   },
+  { "type": "separator", "name": "-------------KUCHARZ-------------" },
+ {
+    "key": "prognozy_specjały_v6",
+    "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
+    "private": true
+  },
+ {
+    "key": "prognozy_specjały_v6",
+    "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
+    "private": true
+  },
   { "type": "separator", "name": "-------------TABELKI-------------" },
   {
     "key": "skracanie_pako2",
