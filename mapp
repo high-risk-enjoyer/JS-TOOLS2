@@ -1,27 +1,6 @@
 [
   { "type": "separator", "name": "-------------DO KLIKANIA PRZEWIDYWAŃ-------------" },
   {
-    "key": "dyzur_kuchnia",
-    "name": "Liczenie prognozy - Kuchnia",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_kuchnia_przewidy",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/dyzur_kuchnia.md",
-    "private": true
-  },
-  {
-    "key": "dyzur_domowienia",
-    "name": "Prognozy - domowienia",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/dyzur_domowienia_przewidy.md",
-    "private": true
-  },
-  {
-    "key": "dyzur_domowienia_przewidy2",
-    "name": "Prognozy - domowienia, gdy nie ma liczb",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/dyzur_domowienia_przewidy2",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/dyzur_domowienia_przewidy2.md",
-    "private": true
-  },
-  {
     "key": "kopiuj_tabelke",
     "name": "KOPIUJ TABELKE SPECJAŁÓW Z APLIKACJI",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kopiuj_tabelke",
@@ -33,20 +12,6 @@
     "name": "ZAKTUALIZUJ PRZEWIDYWANIA NA SPECJAŁY",
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/prognozy_specjały_v6",
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
-    "private": true
-  },
-  {
-    "key": "zbierz_dane",
-    "name": "dane",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/zbierz_dane",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/zbierz_dane.md",
-    "private": true
-  },
-  {
-    "key": "anuluj",
-    "name": "Anuluj formularz esc",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/anuluj",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/anuluj.md",
     "private": true
   },
   { "type": "separator", "name": "-------------TABELKI-------------" },
