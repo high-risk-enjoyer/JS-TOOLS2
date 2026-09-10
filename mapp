@@ -14,6 +14,12 @@
     "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/prognozy_specjały_v6.md",
     "private": true
   },
+  {
+    "key": "prognoza_lokalna",
+    "name": "PROGNOZA SPECJAŁÓW LOKALNIE",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/brokul-prognoza-lokalna",
+    "private": true
+  },
   { "type": "separator", "name": "-------------KUCHARZ-------------" },
  {
     "key": "baton",
