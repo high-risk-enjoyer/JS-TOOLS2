@@ -20,6 +20,12 @@
     "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/brokul-prognoza-lokalna",
     "private": true
   },
+  {
+    "key": "zbierz_dane_do_przedpremiery",
+    "name": "LICZBY NA POWTÓRKI Z PRZEDPREMIERY",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/zbierz_dane_do_przedpremiery",
+    "private": true
+  },
   { "type": "separator", "name": "-------------KUCHARZ-------------" },
  {
     "key": "baton",
