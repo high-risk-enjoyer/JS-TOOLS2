@@ -1,10 +1,10 @@
 [
   { "type": "separator", "name": "-------------DO KLIKANIA PRZEWIDYWAŃ-------------" },
   {
-    "key": "kopiuj_tabelke",
-    "name": "KOPIUJ TABELKE SPECJAŁÓW Z APLIKACJI",
-    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/kopiuj_tabelke",
-    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/kopiuj_tabelke.md",
+    "key": "sorosz_nakladka",
+    "name": "PRZEWIDYWANIA DIET",
+    "url": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/sorosz_nakladka",
+    "instructionsUrl": "https://raw.githubusercontent.com/high-risk-enjoyer/JS-TOOLS/main/instrukcje/sorosz_nakladka.md",
     "private": true
   },
   {
